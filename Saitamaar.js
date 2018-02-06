@@ -1,5 +1,5 @@
 /*
- *  # Saitamaar.js
+ *  # Saitamaar.otf
  *
  *  - AA 表示用フォント Saitamaar を AA っぽい要素に適用するスクリプト
  *  - (c) YAMASINA Keage - http://keage.sakura.ne.jp
